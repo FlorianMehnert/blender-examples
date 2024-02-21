@@ -1,5 +1,5 @@
 # blender-examples
-this is a small collection of my best blender artworks
+- small overview over some of the blender artworks I worked on ![dnkHappy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8e1463a5becb4d218c97e7588b7236c3/static/light/1.0)
 
 ![temple](temple.png)
 ![camera](camera.jpeg)
